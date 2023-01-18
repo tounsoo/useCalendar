@@ -1,1 +1,1 @@
-export { useCalendar } from "./useCalendar";
+export { useCalendar, useCalendarDay } from "./useCalendar";
